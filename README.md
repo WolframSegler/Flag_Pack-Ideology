@@ -6,10 +6,10 @@
 ![example 4](./graphics/factions/custom/emk_belarus2_flag.png)
 ## About
 
-This Starsector mod adds flags and crests for all kinds of Ideologies. We don't discriminate here. I don't have any specific sources for these flags. I just scavenge them from the internet. However you can check the [Wikipemia page for Ideology flags](https://commons.wikimedia.org/wiki/Political_flags).
+This Starsector mod adds flags and crests for all kinds of Ideologies. We don't discriminate here. I don't have any specific sources for these flags. I just scavenge them off the internet. However you can check the [Wikimedia page for Ideology flags](https://commons.wikimedia.org/wiki/Political_flags).
 This mod is for those who wish to roleplay as certain ideologies or to personalize their colonies. It includes country flags with ideological symbols such as the iron cross, the hammer and sickle, the star and crescent, certain runic symbols and many more.
 
-Please note that I do not endorse these Ideologies and their acts. But if I am going to roleplay as a dictator Spacer, then I sure as hell want the appropriate flag to go with it. If there is a particular flag you want added to the mod, then please create an [Issue on GitHub](https://github.com/WolframSegler/Flag_Pack-Ideology/issues) and include a high resolution picture if avaliable. Try to find pictures with at least a resolution of 384×256, otherwise the picture looks blurry.
+Please note that I do not endorse these Ideologies and their acts. But if I am going to roleplay as a Space dictator, then I sure as hell want the appropriate flag to go with it. If there is a particular flag you want added to the mod, then please create an [Issue on GitHub](https://github.com/WolframSegler/Flag_Pack-Ideology/issues) and include a high resolution picture if avaliable. Try to find pictures with at least a resolution of 384×256, otherwise the picture looks blurry.
 
 ## Modification Instructions
 
