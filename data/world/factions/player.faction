@@ -2,412 +2,412 @@
     "id": "player",
     "flags": [
         {
-            "logo": "emk_yemen1_flag.png",
-            "crest": "emk_yemen1_crest.png"
+            "logo": "graphics/factions/custom/emk_yemen1_flag.png",
+            "crest": "graphics/factions/custom/emk_yemen1_crest.png"
         },
         {
-            "logo": "emk_vietnam2_flag.png",
-            "crest": "emk_vietnam2_crest.png"
+            "logo": "graphics/factions/custom/emk_vietnam2_flag.png",
+            "crest": "graphics/factions/custom/emk_vietnam2_crest.png"
         },
         {
-            "logo": "emk_vietnam1_flag.png",
-            "crest": "emk_vietnam1_crest.png"
+            "logo": "graphics/factions/custom/emk_vietnam1_flag.png",
+            "crest": "graphics/factions/custom/emk_vietnam1_crest.png"
         },
         {
-            "logo": "emk_ussr2_flag.png",
-            "crest": "emk_ussr2_crest.png"
+            "logo": "graphics/factions/custom/emk_ussr2_flag.png",
+            "crest": "graphics/factions/custom/emk_ussr2_crest.png"
         },
         {
-            "logo": "emk_ussr1_flag.png",
-            "crest": "emk_ussr1_crest.png"
+            "logo": "graphics/factions/custom/emk_ussr1_flag.png",
+            "crest": "graphics/factions/custom/emk_ussr1_crest.png"
         },
         {
-            "logo": "emk_usa1_flag.png",
-            "crest": "emk_usa1_crest.png"
+            "logo": "graphics/factions/custom/emk_usa1_flag.png",
+            "crest": "graphics/factions/custom/emk_usa1_crest.png"
         },
         {
-            "logo": "emk_ukraine2_flag.png",
-            "crest": "emk_ukraine2_crest.png"
+            "logo": "graphics/factions/custom/emk_ukraine2_flag.png",
+            "crest": "graphics/factions/custom/emk_ukraine2_crest.png"
         },
         {
-            "logo": "emk_ukraine1_flag.png",
-            "crest": "emk_ukraine1_crest.png"
+            "logo": "graphics/factions/custom/emk_ukraine1_flag.png",
+            "crest": "graphics/factions/custom/emk_ukraine1_crest.png"
         },
         {
-            "logo": "emk_turkey1_flag.png",
-            "crest": "emk_turkey1_crest.png"
+            "logo": "graphics/factions/custom/emk_turkey1_flag.png",
+            "crest": "graphics/factions/custom/emk_turkey1_crest.png"
         },
         {
-            "logo": "emk_turan4_flag.png",
-            "crest": "emk_turan4_crest.png"
+            "logo": "graphics/factions/custom/emk_turan4_flag.png",
+            "crest": "graphics/factions/custom/emk_turan4_crest.png"
         },
         {
-            "logo": "emk_turan3_flag.png",
-            "crest": "emk_turan3_crest.png"
+            "logo": "graphics/factions/custom/emk_turan3_flag.png",
+            "crest": "graphics/factions/custom/emk_turan3_crest.png"
         },
         {
-            "logo": "emk_turan2_flag.png",
-            "crest": "emk_turan2_crest.png"
+            "logo": "graphics/factions/custom/emk_turan2_flag.png",
+            "crest": "graphics/factions/custom/emk_turan2_crest.png"
         },
         {
-            "logo": "emk_turan1_flag.png",
-            "crest": "emk_turan1_crest.png"
+            "logo": "graphics/factions/custom/emk_turan1_flag.png",
+            "crest": "graphics/factions/custom/emk_turan1_crest.png"
         },
         {
-            "logo": "emk_taliban_flag.png",
-            "crest": "emk_taliban_crest.png"
+            "logo": "graphics/factions/custom/emk_taliban_flag.png",
+            "crest": "graphics/factions/custom/emk_taliban_crest.png"
         },
         {
-            "logo": "emk_spain4_flag.png",
-            "crest": "emk_spain4_crest.png"
+            "logo": "graphics/factions/custom/emk_spain4_flag.png",
+            "crest": "graphics/factions/custom/emk_spain4_crest.png"
         },
         {
-            "logo": "emk_spain3_flag.png",
-            "crest": "emk_spain3_crest.png"
+            "logo": "graphics/factions/custom/emk_spain3_flag.png",
+            "crest": "graphics/factions/custom/emk_spain3_crest.png"
         },
         {
-            "logo": "emk_spain2_flag.png",
-            "crest": "emk_spain2_crest.png"
+            "logo": "graphics/factions/custom/emk_spain2_flag.png",
+            "crest": "graphics/factions/custom/emk_spain2_crest.png"
         },
         {
-            "logo": "emk_spain1_flag.png",
-            "crest": "emk_spain1_crest.png"
+            "logo": "graphics/factions/custom/emk_spain1_flag.png",
+            "crest": "graphics/factions/custom/emk_spain1_crest.png"
         },
         {
-            "logo": "emk_socialism1_flag.png",
-            "crest": "emk_socialism1_crest.png"
+            "logo": "graphics/factions/custom/emk_socialism1_flag.png",
+            "crest": "graphics/factions/custom/emk_socialism1_crest.png"
         },
         {
-            "logo": "emk_socdem2_flag.png",
-            "crest": "emk_socdem2_crest.png"
+            "logo": "graphics/factions/custom/emk_socdem2_flag.png",
+            "crest": "graphics/factions/custom/emk_socdem2_crest.png"
         },
         {
-            "logo": "emk_socdem1_flag.jpg",
-            "crest": "emk_socdem1_crest.jpg"
+            "logo": "graphics/factions/custom/emk_socdem1_flag.jpg",
+            "crest": "graphics/factions/custom/emk_socdem1_crest.jpg"
         },
         {
-            "logo": "emk_russia1_flag.png",
-            "crest": "emk_russia1_crest.jpg"
+            "logo": "graphics/factions/custom/emk_russia1_flag.png",
+            "crest": "graphics/factions/custom/emk_russia1_crest.jpg"
         },
         {
-            "logo": "emk_romania3_flag.png",
-            "crest": "emk_romania3_crest.png"
+            "logo": "graphics/factions/custom/emk_romania3_flag.png",
+            "crest": "graphics/factions/custom/emk_romania3_crest.png"
         },
         {
-            "logo": "emk_romania2_flag.png",
-            "crest": "emk_romania2_crest.png"
+            "logo": "graphics/factions/custom/emk_romania2_flag.png",
+            "crest": "graphics/factions/custom/emk_romania2_crest.png"
         },
         {
-            "logo": "emk_romania1_flag.png",
-            "crest": "emk_romania1_crest.png"
+            "logo": "graphics/factions/custom/emk_romania1_flag.png",
+            "crest": "graphics/factions/custom/emk_romania1_crest.png"
         },
         {
-            "logo": "emk_posadism1_flag.png",
-            "crest": "emk_posadism1_crest.png"
+            "logo": "graphics/factions/custom/emk_posadism1_flag.png",
+            "crest": "graphics/factions/custom/emk_posadism1_crest.png"
         },
         {
-            "logo": "emk_pakistan1_flag.png",
-            "crest": "emk_pakistan1_crest.png"
+            "logo": "graphics/factions/custom/emk_pakistan1_flag.png",
+            "crest": "graphics/factions/custom/emk_pakistan1_crest.png"
         },
         {
-            "logo": "emk_pacifism2_flag.png",
-            "crest": "emk_pacifism2_crest.png"
+            "logo": "graphics/factions/custom/emk_pacifism2_flag.png",
+            "crest": "graphics/factions/custom/emk_pacifism2_crest.png"
         },
         {
-            "logo": "emk_pacifism1_flag.PNG",
-            "crest": "emk_pacifism1_crest.PNG"
+            "logo": "graphics/factions/custom/emk_pacifism1_flag.PNG",
+            "crest": "graphics/factions/custom/emk_pacifism1_crest.PNG"
         },
         {
-            "logo": "emk_nordic2_flag.png",
-            "crest": "emk_nordic2_crest.png"
+            "logo": "graphics/factions/custom/emk_nordic2_flag.png",
+            "crest": "graphics/factions/custom/emk_nordic2_crest.png"
         },
         {
-            "logo": "emk_nordic1_flag.png",
-            "crest": "emk_nordic1_crest.png"
+            "logo": "graphics/factions/custom/emk_nordic1_flag.png",
+            "crest": "graphics/factions/custom/emk_nordic1_crest.png"
         },
         {
-            "logo": "emk_mongolia2_flag.png",
-            "crest": "emk_mongolia2_crest.png"
+            "logo": "graphics/factions/custom/emk_mongolia2_flag.png",
+            "crest": "graphics/factions/custom/emk_mongolia2_crest.png"
         },
         {
-            "logo": "emk_mongolia1_flag.png",
-            "crest": "emk_mongolia1_crest.png"
+            "logo": "graphics/factions/custom/emk_mongolia1_flag.png",
+            "crest": "graphics/factions/custom/emk_mongolia1_crest.png"
         },
         {
-            "logo": "emk_mexico1_flag.png",
-            "crest": "emk_mexico1_crest.png"
+            "logo": "graphics/factions/custom/emk_mexico1_flag.png",
+            "crest": "graphics/factions/custom/emk_mexico1_crest.png"
         },
         {
-            "logo": "emk_malaysia1_flag.png",
-            "crest": "emk_malaysia1_crest.png"
+            "logo": "graphics/factions/custom/emk_malaysia1_flag.png",
+            "crest": "graphics/factions/custom/emk_malaysia1_crest.png"
         },
         {
-            "logo": "emk_liberationFront5_flag.png",
-            "crest": "emk_liberationFront5_crest.png"
+            "logo": "graphics/factions/custom/emk_liberationFront5_flag.png",
+            "crest": "graphics/factions/custom/emk_liberationFront5_crest.png"
         },
         {
-            "logo": "emk_liberationFront4_flag.PNG",
-            "crest": "emk_liberationFront4_crest.PNG"
+            "logo": "graphics/factions/custom/emk_liberationFront4_flag.PNG",
+            "crest": "graphics/factions/custom/emk_liberationFront4_crest.PNG"
         },
         {
-            "logo": "emk_liberationFront3_flag.png",
-            "crest": "emk_liberationFront3_crest.png"
+            "logo": "graphics/factions/custom/emk_liberationFront3_flag.png",
+            "crest": "graphics/factions/custom/emk_liberationFront3_crest.png"
         },
         {
-            "logo": "emk_liberationFront2_flag.png",
-            "crest": "emk_liberationFront2_crest.png"
+            "logo": "graphics/factions/custom/emk_liberationFront2_flag.png",
+            "crest": "graphics/factions/custom/emk_liberationFront2_crest.png"
         },
         {
-            "logo": "emk_liberationFront1_flag.png",
-            "crest": "emk_liberationFront1_crest.png"
+            "logo": "graphics/factions/custom/emk_liberationFront1_flag.png",
+            "crest": "graphics/factions/custom/emk_liberationFront1_crest.png"
         },
         {
-            "logo": "emk_liberalism2_flag.png",
-            "crest": "emk_liberalism2_crest.png"
+            "logo": "graphics/factions/custom/emk_liberalism2_flag.png",
+            "crest": "graphics/factions/custom/emk_liberalism2_crest.png"
         },
         {
-            "logo": "emk_liberalism1_flag.png",
-            "crest": "emk_liberalism1_crest.png"
+            "logo": "graphics/factions/custom/emk_liberalism1_flag.png",
+            "crest": "graphics/factions/custom/emk_liberalism1_crest.png"
         },
         {
-            "logo": "emk_lebanon1_flag.png",
-            "crest": "emk_lebanon1_crest.png"
+            "logo": "graphics/factions/custom/emk_lebanon1_flag.png",
+            "crest": "graphics/factions/custom/emk_lebanon1_crest.png"
         },
         {
-            "logo": "emk_laos1_flag.png",
-            "crest": "emk_laos1_crest.png"
+            "logo": "graphics/factions/custom/emk_laos1_flag.png",
+            "crest": "graphics/factions/custom/emk_laos1_crest.png"
         },
         {
-            "logo": "emk_kurdistan1_flag.png",
-            "crest": "emk_kurdistan1_crest.png"
+            "logo": "graphics/factions/custom/emk_kurdistan1_flag.png",
+            "crest": "graphics/factions/custom/emk_kurdistan1_crest.png"
         },
         {
-            "logo": "emk_korea3_flag.png",
-            "crest": "emk_korea3_crest.png"
+            "logo": "graphics/factions/custom/emk_korea3_flag.png",
+            "crest": "graphics/factions/custom/emk_korea3_crest.png"
         },
         {
-            "logo": "emk_korea2_flag.png",
-            "crest": "emk_korea2_crest.png"
+            "logo": "graphics/factions/custom/emk_korea2_flag.png",
+            "crest": "graphics/factions/custom/emk_korea2_crest.png"
         },
         {
-            "logo": "emk_korea1_flag.png",
-            "crest": "emk_korea1_crest.png"
+            "logo": "graphics/factions/custom/emk_korea1_flag.png",
+            "crest": "graphics/factions/custom/emk_korea1_crest.png"
         },
         {
-            "logo": "emk_jollyRoger_flag.png",
-            "crest": "emk_jollyRoger_crest.png"
+            "logo": "graphics/factions/custom/emk_jollyRoger_flag.png",
+            "crest": "graphics/factions/custom/emk_jollyRoger_crest.png"
         },
         {
-            "logo": "emk_jihadist2_flag.png",
-            "crest": "emk_jihadist2_crest.png"
+            "logo": "graphics/factions/custom/emk_jihadist2_flag.png",
+            "crest": "graphics/factions/custom/emk_jihadist2_crest.png"
         },
         {
-            "logo": "emk_jihadist1_flag.png",
-            "crest": "emk_jihadist1_crest.png"
+            "logo": "graphics/factions/custom/emk_jihadist1_flag.png",
+            "crest": "graphics/factions/custom/emk_jihadist1_crest.png"
         },
         {
-            "logo": "emk_japan1_flag.png",
-            "crest": "emk_japan1_crest.png"
+            "logo": "graphics/factions/custom/emk_japan1_flag.png",
+            "crest": "graphics/factions/custom/emk_japan1_crest.png"
         },
         {
-            "logo": "emk_italy3_flag.png",
-            "crest": "emk_italy3_crest.png"
+            "logo": "graphics/factions/custom/emk_italy3_flag.png",
+            "crest": "graphics/factions/custom/emk_italy3_crest.png"
         },
         {
-            "logo": "emk_italy2_flag.png",
-            "crest": "emk_italy2_crest.png"
+            "logo": "graphics/factions/custom/emk_italy2_flag.png",
+            "crest": "graphics/factions/custom/emk_italy2_crest.png"
         },
         {
-            "logo": "emk_italy1_flag.png",
-            "crest": "emk_italy1_crest.png"
+            "logo": "graphics/factions/custom/emk_italy1_flag.png",
+            "crest": "graphics/factions/custom/emk_italy1_crest.png"
         },
         {
-            "logo": "emk_ireland1_flag.png",
-            "crest": "emk_ireland1_crest.png"
+            "logo": "graphics/factions/custom/emk_ireland1_flag.png",
+            "crest": "graphics/factions/custom/emk_ireland1_crest.png"
         },
         {
-            "logo": "emk_india4_flag.png",
-            "crest": "emk_india4_crest.png"
+            "logo": "graphics/factions/custom/emk_india4_flag.png",
+            "crest": "graphics/factions/custom/emk_india4_crest.png"
         },
         {
-            "logo": "emk_india2_flag.png",
-            "crest": "emk_india2_crest.png"
+            "logo": "graphics/factions/custom/emk_india2_flag.png",
+            "crest": "graphics/factions/custom/emk_india2_crest.png"
         },
         {
-            "logo": "emk_india1_flag.jpg",
-            "crest": "emk_india1_crest.jpg"
+            "logo": "graphics/factions/custom/emk_india1_flag.jpg",
+            "crest": "graphics/factions/custom/emk_india1_crest.jpg"
         },
         {
-            "logo": "emk_hungary1_flag.png",
-            "crest": "emk_hungary1_crest.png"
+            "logo": "graphics/factions/custom/emk_hungary1_flag.png",
+            "crest": "graphics/factions/custom/emk_hungary1_crest.png"
         },
         {
-            "logo": "emk_guerilla1_flag.png",
-            "crest": "emk_guerilla1_crest.png"
+            "logo": "graphics/factions/custom/emk_guerilla1_flag.png",
+            "crest": "graphics/factions/custom/emk_guerilla1_crest.png"
         },
         {
-            "logo": "emk_greece2_flag.png",
-            "crest": "emk_greece2_crest.png"
+            "logo": "graphics/factions/custom/emk_greece2_flag.png",
+            "crest": "graphics/factions/custom/emk_greece2_crest.png"
         },
         {
-            "logo": "emk_greece1_flag.png",
-            "crest": "emk_greece1_crest.png"
+            "logo": "graphics/factions/custom/emk_greece1_flag.png",
+            "crest": "graphics/factions/custom/emk_greece1_crest.png"
         },
         {
-            "logo": "emk_germany7_flag.png",
-            "crest": "emk_germany7_crest.png"
+            "logo": "graphics/factions/custom/emk_germany7_flag.png",
+            "crest": "graphics/factions/custom/emk_germany7_crest.png"
         },
         {
-            "logo": "emk_germany6_flag.png",
-            "crest": "emk_germany6_crest.png"
+            "logo": "graphics/factions/custom/emk_germany6_flag.png",
+            "crest": "graphics/factions/custom/emk_germany6_crest.png"
         },
         {
-            "logo": "emk_germany5_flag.png",
-            "crest": "emk_germany5_crest.png"
+            "logo": "graphics/factions/custom/emk_germany5_flag.png",
+            "crest": "graphics/factions/custom/emk_germany5_crest.png"
         },
         {
-            "logo": "emk_germany4_flag.png",
-            "crest": "emk_germany4_crest.png"
+            "logo": "graphics/factions/custom/emk_germany4_flag.png",
+            "crest": "graphics/factions/custom/emk_germany4_crest.png"
         },
         {
-            "logo": "emk_germany3_flag.png",
-            "crest": "emk_germany3_crest.png"
+            "logo": "graphics/factions/custom/emk_germany3_flag.png",
+            "crest": "graphics/factions/custom/emk_germany3_crest.png"
         },
         {
-            "logo": "emk_germany2_flag.png",
-            "crest": "emk_germany2_crest.png"
+            "logo": "graphics/factions/custom/emk_germany2_flag.png",
+            "crest": "graphics/factions/custom/emk_germany2_crest.png"
         },
         {
-            "logo": "emk_germany1_flag.png",
-            "crest": "emk_germany1_crest.png"
+            "logo": "graphics/factions/custom/emk_germany1_flag.png",
+            "crest": "graphics/factions/custom/emk_germany1_crest.png"
         },
         {
-            "logo": "emk_georgia1_flag.png",
-            "crest": "emk_georgia1_crest.png"
+            "logo": "graphics/factions/custom/emk_georgia1_flag.png",
+            "crest": "graphics/factions/custom/emk_georgia1_crest.png"
         },
         {
-            "logo": "emk_france2_flag.png",
-            "crest": "emk_france2_crest.png"
+            "logo": "graphics/factions/custom/emk_france2_flag.png",
+            "crest": "graphics/factions/custom/emk_france2_crest.png"
         },
         {
-            "logo": "emk_france1_flag.png",
-            "crest": "emk_france1_crest.png"
+            "logo": "graphics/factions/custom/emk_france1_flag.png",
+            "crest": "graphics/factions/custom/emk_france1_crest.png"
         },
         {
-            "logo": "emk_feminism2_flag.png",
-            "crest": "emk_feminism2_crest.png"
+            "logo": "graphics/factions/custom/emk_feminism2_flag.png",
+            "crest": "graphics/factions/custom/emk_feminism2_crest.png"
         },
         {
-            "logo": "emk_feminism1_flag.png",
-            "crest": "emk_feminism1_crest.png"
+            "logo": "graphics/factions/custom/emk_feminism1_flag.png",
+            "crest": "graphics/factions/custom/emk_feminism1_crest.png"
         },
         {
-            "logo": "emk_eastIndies_flag.png",
-            "crest": "emk_eastIndies_crest.png"
+            "logo": "graphics/factions/custom/emk_eastIndies_flag.png",
+            "crest": "graphics/factions/custom/emk_eastIndies_crest.png"
         },
         {
-            "logo": "emk_ddr_flag.png",
-            "crest": "emk_ddr_crest.png"
+            "logo": "graphics/factions/custom/emk_ddr_flag.png",
+            "crest": "graphics/factions/custom/emk_ddr_crest.png"
         },
         {
-            "logo": "emk_conceyu_flag.png",
-            "crest": "emk_conceyu_crest.png"
+            "logo": "graphics/factions/custom/emk_conceyu_flag.png",
+            "crest": "graphics/factions/custom/emk_conceyu_crest.png"
         },
         {
-            "logo": "emk_colombia1_flag.png",
-            "crest": "emk_colombia1_crest.png"
+            "logo": "graphics/factions/custom/emk_colombia1_flag.png",
+            "crest": "graphics/factions/custom/emk_colombia1_crest.png"
         },
         {
-            "logo": "emk_china3_flag.png",
-            "crest": "emk_china3_crest.png"
+            "logo": "graphics/factions/custom/emk_china3_flag.png",
+            "crest": "graphics/factions/custom/emk_china3_crest.png"
         },
         {
-            "logo": "emk_china2_flag.png",
-            "crest": "emk_china2_crest.png"
+            "logo": "graphics/factions/custom/emk_china2_flag.png",
+            "crest": "graphics/factions/custom/emk_china2_crest.png"
         },
         {
-            "logo": "emk_china1_flag.png",
-            "crest": "emk_china1_crest.png"
+            "logo": "graphics/factions/custom/emk_china1_flag.png",
+            "crest": "graphics/factions/custom/emk_china1_crest.png"
         },
         {
-            "logo": "emk_celtic1_flag.png",
-            "crest": "emk_celtic1_crest.png"
+            "logo": "graphics/factions/custom/emk_celtic1_flag.png",
+            "crest": "graphics/factions/custom/emk_celtic1_crest.png"
         },
         {
-            "logo": "emk_caledonia1_flag.png",
-            "crest": "emk_caledonia1_crest.png"
+            "logo": "graphics/factions/custom/emk_caledonia1_flag.png",
+            "crest": "graphics/factions/custom/emk_caledonia1_crest.png"
         },
         {
-            "logo": "emk_burma1_flag.png",
-            "crest": "emk_burma1_crest.png"
+            "logo": "graphics/factions/custom/emk_burma1_flag.png",
+            "crest": "graphics/factions/custom/emk_burma1_crest.png"
         },
         {
-            "logo": "emk_britain1_flag.png",
-            "crest": "emk_britain1_crest.png"
+            "logo": "graphics/factions/custom/emk_britain1_flag.png",
+            "crest": "graphics/factions/custom/emk_britain1_crest.png"
         },
         {
-            "logo": "emk_belgium1_flag.png",
-            "crest": "emk_belgium1_crest.png"
+            "logo": "graphics/factions/custom/emk_belgium1_flag.png",
+            "crest": "graphics/factions/custom/emk_belgium1_crest.png"
         },
         {
-            "logo": "emk_belarus2_flag.png",
-            "crest": "emk_belarus2_crest.png"
+            "logo": "graphics/factions/custom/emk_belarus2_flag.png",
+            "crest": "graphics/factions/custom/emk_belarus2_crest.png"
         },
         {
-            "logo": "emk_belarus1_flag.png",
-            "crest": "emk_belarus1_crest.png"
+            "logo": "graphics/factions/custom/emk_belarus1_flag.png",
+            "crest": "graphics/factions/custom/emk_belarus1_crest.png"
         },
         {
-            "logo": "emk_austriaSocdem_flag.jpg",
-            "crest": "emk_austriaSocdem_crest.jpg"
+            "logo": "graphics/factions/custom/emk_austriaSocdem_flag.jpg",
+            "crest": "graphics/factions/custom/emk_austriaSocdem_crest.jpg"
         },
         {
-            "logo": "emk_austria1_flag.png",
-            "crest": "emk_austria1_crest.png"
+            "logo": "graphics/factions/custom/emk_austria1_flag.png",
+            "crest": "graphics/factions/custom/emk_austria1_crest.png"
         },
         {
-            "logo": "emk_argentina1_flag.png",
-            "crest": "emk_argentina1_crest.png"
+            "logo": "graphics/factions/custom/emk_argentina1_flag.png",
+            "crest": "graphics/factions/custom/emk_argentina1_crest.png"
         },
         {
-            "logo": "emk_arab1_flag.png",
-            "crest": "emk_arab1_crest.png"
+            "logo": "graphics/factions/custom/emk_arab1_flag.png",
+            "crest": "graphics/factions/custom/emk_arab1_crest.png"
         },
         {
-            "logo": "emk_anonymous_flag.png",
-            "crest": "emk_anonymous_crest.png"
+            "logo": "graphics/factions/custom/emk_anonymous_flag.png",
+            "crest": "graphics/factions/custom/emk_anonymous_crest.png"
         },
         {
-            "logo": "emk_anarchy5_flag.png",
-            "crest": "emk_anarchy5_crest.png"
+            "logo": "graphics/factions/custom/emk_anarchy5_flag.png",
+            "crest": "graphics/factions/custom/emk_anarchy5_crest.png"
         },
         {
-            "logo": "emk_anarchy4_flag.png",
-            "crest": "emk_anarchy4_crest.png"
+            "logo": "graphics/factions/custom/emk_anarchy4_flag.png",
+            "crest": "graphics/factions/custom/emk_anarchy4_crest.png"
         },
         {
-            "logo": "emk_anarchy3_flag.png",
-            "crest": "emk_anarchy3_crest.png"
+            "logo": "graphics/factions/custom/emk_anarchy3_flag.png",
+            "crest": "graphics/factions/custom/emk_anarchy3_crest.png"
         },
         {
-            "logo": "emk_anarchy2_flag.png",
-            "crest": "emk_anarchy2_crest.png"
+            "logo": "graphics/factions/custom/emk_anarchy2_flag.png",
+            "crest": "graphics/factions/custom/emk_anarchy2_crest.png"
         },
         {
-            "logo": "emk_anarchy1_flag.png",
-            "crest": "emk_anarchy1_crest.png"
+            "logo": "graphics/factions/custom/emk_anarchy1_flag.png",
+            "crest": "graphics/factions/custom/emk_anarchy1_crest.png"
         },
         {
-            "logo": "emk_albania2_flag.png",
-            "crest": "emk_albania2_crest.png"
+            "logo": "graphics/factions/custom/emk_albania2_flag.png",
+            "crest": "graphics/factions/custom/emk_albania2_crest.png"
         },
         {
-            "logo": "emk_albania1_flag.png",
-            "crest": "emk_albania1_crest.png"
+            "logo": "graphics/factions/custom/emk_albania1_flag.png",
+            "crest": "graphics/factions/custom/emk_albania1_crest.png"
         },
         {
-            "logo": "emk_afghanistan1_flag.png",
-            "crest": "emk_afghanistan1_crest.png"
+            "logo": "graphics/factions/custom/emk_afghanistan1_flag.png",
+            "crest": "graphics/factions/custom/emk_afghanistan1_crest.png"
         }
     ]
 }

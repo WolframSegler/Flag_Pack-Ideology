@@ -14,7 +14,7 @@ def list_files(directory):
             if "flag" in file:
                 temp_file = file
             else:
-                files_list.append({"logo":temp_file, "crest":file})
+                files_list.append({"logo":"graphics/factions/custom/"+temp_file, "crest":"graphics/factions/custom/"+file})
     return files_list
 
 def write_json(target_path, file):
